@@ -1,6 +1,6 @@
 {
   "name": "capacity-planner",
-  "homepage": "https://jasenwen.github.io/",      //add
+  "homepage": "https://jasenwen.github.io/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,8 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",     //add
-    "deploy": "gh-pages -d dist"      //add
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "recharts": "^3.6.0",
