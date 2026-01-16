@@ -1,5 +1,6 @@
 {
   "name": "sparkplug-s&op-planner",
+  "homepage": "https://jasenwen.github.io/",      //add
   "private": true,
   "version": "0.0.0",
   "type": "module",
