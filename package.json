@@ -7,8 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",     // <--- 新增
-    "deploy": "gh-pages -d dist"      // <--- 新增
+    "predeploy": "npm run build",     //add
+    "deploy": "gh-pages -d dist"      //add
   },
   "dependencies": {
     "recharts": "^3.6.0",
